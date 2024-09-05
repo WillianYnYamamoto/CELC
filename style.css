@@ -10,3 +10,12 @@ p {
 .twikihoh {
     font-style: italic;
 }
+
+.img1 {
+    width: 25%;
+}
+
+nav a {
+    color: rgb(101, 110, 13);
+    text-decoration: underline;
+}
