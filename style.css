@@ -15,7 +15,8 @@ p {
     width: 25%;
 }
 
-nav a {
-    color: rgb(101, 110, 13);
-    text-decoration: underline;
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
 }
